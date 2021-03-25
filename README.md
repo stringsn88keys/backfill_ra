@@ -10,3 +10,6 @@ Add a `.config` file with:
     EMAIL='youremail@example.com'
     PASSWORD='P@55w0rd'
 ```
+
+## Dependencies
+You will need to install the chromedriver version appropriate to your version of Chrome.
